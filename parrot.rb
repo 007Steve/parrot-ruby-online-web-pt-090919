@@ -4,6 +4,6 @@
 def parrot (name="Squawk!")
   puts "#{name}"
   "Squawk!"
-  "Pretty bird"
+  "Pretty bird!"
   
 end
