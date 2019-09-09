@@ -2,7 +2,7 @@
 # returns the phrase
 
 def parrot(name="Squawk!")
-  
+  "Squawk!"
   puts "Pretty bird!"
   "Pretty bird!"
   
