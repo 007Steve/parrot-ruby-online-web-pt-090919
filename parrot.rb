@@ -3,5 +3,5 @@
 
 def parrot(name="Squawk!")
   puts "#{name} "
-  "Squawk!"
+  print"Squawk!"
 end
